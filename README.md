@@ -10,6 +10,6 @@
 4. 多層的 JSON，例如: 至少 4 層的 JSON。</br>
    ex: 用 JSON 定義 hololive 的相關資訊，JSON 有 4 層，資料以台灣中文呈現，key 用英文。
    
-5. 使用 Code Interpreter 或 Web Browsing 的 AI 產生最新資訊的 JSON。(提升資料的準確性)</br>
+5. 使用 Code Interpreter 或 Web Browsing 的 AI 產生最新資訊的 JSON。(能提升資料的準確性，但 plugin 功能目前看起來需要訂閱才能使用)</br>
 
 
