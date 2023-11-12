@@ -1,0 +1,2 @@
+# JSON_API_GPT
+測試用 GPT 產生 JSON_API
