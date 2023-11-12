@@ -1,0 +1,11 @@
+{
+  "name": "hololive",
+  "type": "虛擬Youtuber經紀公司",
+  "launch_date": 20180531, 
+  "members": ["桐生可可", "夏色祭", "兔田佩克拉"],
+  "branches": {
+    "JP": ["赤井是","白上吹雪","櫻巫女"],
+    "EN": ["Calliope Mori","Ninomae Ina'nis","Gawr Gura"],
+    "ID": ["Moona Hoshinova","Airani Iofifteen"]
+  }
+}
