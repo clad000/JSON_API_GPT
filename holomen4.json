@@ -1,0 +1,20 @@
+{
+  "hololive": {
+    "brand": "Hololive",
+    "founder": "Cover株式会社",
+    "establishment_date": "2017年12月15日",
+    "description": "Hololive是由Cover株式会社製作的虛擬YouTuber（VTuber）事務所，提供直播、影片等內容。成立於2017年，目前擁有多期成員。",
+    "current_members": [
+      {"name": "潤羽るしあ", "debut_date": "2017-12-15", "fan_name": "潤羽派"},
+      {"name": "白銀ノエル", "debut_date": "2017-12-24", "fan_name": "白銀教"},
+      {"name": "湊あくあ", "debut_date": "2017-12-15", "fan_name": "あくあクルー"}
+      // ... (其他成員)
+    ],
+    "fan_support": {
+      "average_age": "20-30歲",
+      "main_subscription_fee": "75元",
+      "majority_support_level": "學生",
+      "average_income_level": "中等收入層"
+    }
+  }
+}
